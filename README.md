@@ -1,4 +1,3 @@
-LEESMIJ: Arduino LED Simulatie Tool voor Modelbaan Verlichting
 Project van NProject.org
 
 Welkom bij de Arduino LED Simulatie Tool!
