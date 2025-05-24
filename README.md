@@ -28,10 +28,10 @@ Hoe gebruik je dit script voor je modelbaan?
 De kracht van deze simulatie ligt in de mogelijkheid om te experimenteren.
 
 * Download de applicatie: De tool is beschikbaar als een Python-script (.py) en voor Windows-gebruikers ook als een uitvoerbaar bestand (.exe), zodat je direct aan de slag kunt zonder Python te hoeven installeren.
-    * Download de bestanden hier: [PLAATS HIER DE COMPLETE DOWNLOAD LINK]
+    * Download de bestanden hier: https://www.nproject.org/nl/elektronica/modelbaan-verlichting-simuleer-leds-met-de-arduino-python-tool/
 
 * Start de applicatie:
-    * Voor het .py script: Zorg dat je Python geïnstalleerd hebt op je computer (versie 3.x wordt aanbevolen). Voer het script uit via een terminal/command prompt: "python jouw_scriptnaam.py" (vervang "jouw_scriptnaam.py" door de naam die je het bestand hebt gegeven, bijvoorbeeld "Modelbaan_LED_Simulator.py").
+    * Voor het .py script: Zorg dat je Python geïnstalleerd hebt op je computer (versie 3.x wordt aanbevolen). Voer het script uit via een terminal/command prompt: "Modelbaan_LED_Simulator.py".
     * Voor de .exe versie: Dubbelklik simpelweg op het uitvoerbare bestand.
 
 * Experimenteer met patronen: Speel met de verschillende patroon-modi en de snelheidsinstellingen via de sliders. Zie hoe je LEDs reageren en welke effecten je kunt creëren.
@@ -47,7 +47,7 @@ Over dit project en ondersteuning
 
 Deze tool is een open-source project en de code is beschikbaar op GitHub. Dit betekent dat je niet alleen kunt experimenteren met de tool, maar ook kunt bijdragen aan de ontwikkeling. We nodigen je uit om mee te denken, de code te verbeteren, of suggesties te doen voor een eventuele volgende versie.
 
-De code is beschikbaar op GitHub: [PLAATS HIER DE COMPLETE GITHUB LINK]
+De code is beschikbaar op GitHub: https://github.com/NProject-org/Modelbaan_LED_Simulator
 
 Gebruik van deze tool is volledig voor eigen risico en er wordt geen ondersteuning voor geboden.
 
