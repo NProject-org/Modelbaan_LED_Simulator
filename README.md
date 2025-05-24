@@ -40,6 +40,8 @@ De kracht van deze simulatie ligt in de mogelijkheid om te experimenteren.
 
 * Sla je configuratie op: Zodra je tevreden bent met een patroon of een set instellingen, sla je deze op. Dit JSON-bestand bevat alle details van je simulatie.
 
+* Exporteer je arduino sketch die je kunt inlezen in je Arduino. (.ino bestand)
+
 Deze simulatie tool fungeert als een digitale werkbank voor je LED-projecten. Je kunt urenlang experimenteren en optimaliseren zonder de frustratie van constant bedraden, uploaden en debuggen op je fysieke Arduino. De tool is primair gebouwd en geoptimaliseerd voor de Arduino Mega, maar de geëxporteerde configuratiebestanden zijn eenvoudig aan te passen. Dit betekent dat je de gesimuleerde PWM-waarden en timings gemakkelijk kunt vertalen naar de code voor je Arduino UNO of een andere versie van het Arduino-bord.
 
 Over dit project en ondersteuning
