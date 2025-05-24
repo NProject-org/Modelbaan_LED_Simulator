@@ -32,7 +32,7 @@ De kracht van deze simulatie ligt in de mogelijkheid om te experimenteren.
 
 * Start de applicatie:
     * Voor het .py script: Zorg dat je Python geïnstalleerd hebt op je computer (versie 3.x wordt aanbevolen). Voer het script uit via een terminal/command prompt: "Modelbaan_LED_Simulator.py".
-    * Voor de .exe versie: Dubbelklik simpelweg op het uitvoerbare bestand.
+    * Voor de windows .exe versie: Dubbelklik simpelweg op het uitvoerbare bestand.
 
 * Experimenteer met patronen: Speel met de verschillende patroon-modi en de snelheidsinstellingen via de sliders. Zie hoe je LEDs reageren en welke effecten je kunt creëren.
 
